@@ -264,7 +264,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://compraseguraonline.org.ua/c/85de67cb29';
+    window.location.href = 'https://ambienteseguro.org.ua/c/36ebd92c24';
   });
 
 }
